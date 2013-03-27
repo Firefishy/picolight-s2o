@@ -210,7 +210,7 @@ acronym, abbr {
 
 
 #wrapper #header, #wrapper #footer {
-	font-family: Ubuntu;
+	font-family: Ubuntu, Arial, 'sans serif';
 	padding-top: 2px;
 	}
 
