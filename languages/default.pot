@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: picolight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-14 13:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team:  \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:39
+msgid "Comments closed"
+msgstr ""
+
+#: comments.php:48
+msgid "You must be"
+msgstr ""
+
+#: comments.php:48
+msgid "logged in"
+msgstr ""
+
+#: comments.php:48
+msgid "to leave a reply"
+msgstr ""
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "Write a comment"
+msgstr ""
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "1 comment"
+msgstr ""
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: index.php:15
+#: page.php:11
+#: single.php:15
+#: functions.php:170
+#: functions.php:197
+msgid "(Edit)"
+msgstr ""
+
+#: index.php:26
+#: index.php:30
+#: single.php:17
+#: search.php:30
+#: search.php:34
+msgid "More &raquo;"
+msgstr ""
+
+#: index.php:46
+msgid "&laquo;  Older articles"
+msgstr ""
+
+#: index.php:47
+msgid "Newer articles &raquo;"
+msgstr ""
+
+#: index.php:56
+#: search.php:57
+msgid "Sorry, nothing found."
+msgstr ""
+
+#: index.php:58
+#: 404.php:7
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr ""
+
+#: page.php:15
+msgid "More..."
+msgstr ""
+
+#: searchform.php:2
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: footer.php:4
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:5
+msgid "Design by picomol"
+msgstr ""
+
+#: footer.php:5
+msgid "Powered by "
+msgstr ""
+
+#: 404.php:5
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: header.php:19
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: single.php:27
+msgid "Sorry, no article found"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:44
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:75
+msgid "Chessboard"
+msgstr ""
+
+#: functions.php:81
+msgid "Hanoi"
+msgstr ""
+
+#: functions.php:87
+msgid "Lanterns"
+msgstr ""
+
+#: functions.php:93
+msgid "Pine-cone"
+msgstr ""
+
+#: functions.php:99
+msgid "Shore"
+msgstr ""
+
+#: functions.php:105
+msgid "Trolley"
+msgstr ""
+
+#: functions.php:111
+msgid "Wheel"
+msgstr ""
+
+#: functions.php:117
+msgid "Willow"
+msgstr ""
+
+#: functions.php:170
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:186
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: functions.php:192
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:202
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:208
+msgid "Reply"
+msgstr ""
+
+#: functions.php:231
+msgid "Categories: "
+msgstr ""
+
+#: functions.php:243
+msgid "Tags: "
+msgstr ""
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: includes/theme-options.php:33
+#: includes/theme-options.php:47
+msgid "Options"
+msgstr ""
+
+#: includes/theme-options.php:51
+msgid "Options saved"
+msgstr ""
+
+#: includes/theme-options.php:65
+msgid "Custom Link Color"
+msgstr ""
+
+#: includes/theme-options.php:69
+msgid "Select a Color"
+msgstr ""
+
+#: includes/theme-options.php:72
+msgid "Default link color: #364D96"
+msgstr ""
+
+#: includes/theme-options.php:76
+msgid "Custom favicon"
+msgstr ""
+
+#: includes/theme-options.php:80
+msgid "Upload your own favicon image"
+msgstr ""
+
+#: includes/theme-options.php:80
+msgid " using the WordPress Media Library and insert the URL here."
+msgstr ""
+
+#: includes/theme-options.php:84
+msgid "Custom header height"
+msgstr ""
+
+#: includes/theme-options.php:88
+msgid "Default header height: 288 px. After you changed this value you can"
+msgstr ""
+
+#: includes/theme-options.php:88
+msgid "upload a new header image"
+msgstr ""
+
+#: includes/theme-options.php:94
+msgid "Save Options"
+msgstr ""

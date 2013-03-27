@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: picolight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-14 13:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carles Escrig Royo <esroyo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: Spanish\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Esta página esta protegida. Introduce la contraseña para ver los comentarios."
+
+#: comments.php:39
+msgid "Comments closed"
+msgstr "Comentarios cerrados"
+
+#: comments.php:48
+msgid "You must be"
+msgstr "Debes estar"
+
+#: comments.php:48
+msgid "logged in"
+msgstr "identificado"
+
+#: comments.php:48
+msgid "to leave a reply"
+msgstr "pera dejar una respuesta"
+
+#: index.php:10 single.php:10 search.php:15
+msgid "Write a comment"
+msgstr "Escribe un comentario"
+
+#: index.php:10 single.php:10 search.php:15
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: index.php:10 single.php:10 search.php:15
+#, php-format
+msgid "% comments"
+msgstr "% comentarios"
+
+#: index.php:15 page.php:11 single.php:15 functions.php:170 functions.php:197
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: index.php:26 index.php:30 single.php:17 search.php:30 search.php:34
+msgid "More &raquo;"
+msgstr "Más &raquo;"
+
+#: index.php:46
+msgid "&laquo;  Older articles"
+msgstr "&laquo;  Artículos más antiguos"
+
+#: index.php:47
+msgid "Newer articles &raquo;"
+msgstr "Artículos más nuevos &raquo;"
+
+#: index.php:56 search.php:57
+msgid "Sorry, nothing found."
+msgstr "Lo sentimos, no se ha encontrado nada."
+
+#: index.php:58 404.php:7
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+"Parece que no encontramos el contenido que estás buscando. Puede que buscar, "
+"o uno de los enlaces de arriba, sea de ayuda."
+
+#: page.php:15
+msgid "More..."
+msgstr "Más..."
+
+#: searchform.php:2 searchform.php:5
+msgid "Search"
+msgstr "Buscar"
+
+#: footer.php:4
+msgid "All rights reserved"
+msgstr "Todos los derechos reservados"
+
+#: footer.php:5
+msgid "Design by picomol"
+msgstr "Diseñado por picomol"
+
+#: footer.php:5
+msgid "Powered by "
+msgstr ""
+
+#: 404.php:5
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Esto es algo embarazoso ¿no?"
+
+#: header.php:19
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: single.php:27
+msgid "Sorry, no article found"
+msgstr "Lo sentimos, no se ha encontrado ningún articulo"
+
+#: functions.php:32
+msgid "Primary Navigation"
+msgstr "Navegación principal"
+
+#: functions.php:44
+msgid "Sidebar"
+msgstr "Columna lateral"
+
+#: functions.php:75
+msgid "Chessboard"
+msgstr ""
+
+#: functions.php:81
+msgid "Hanoi"
+msgstr ""
+
+#: functions.php:87
+msgid "Lanterns"
+msgstr ""
+
+#: functions.php:93
+msgid "Pine-cone"
+msgstr ""
+
+#: functions.php:99
+msgid "Shore"
+msgstr ""
+
+#: functions.php:105
+msgid "Trolley"
+msgstr ""
+
+#: functions.php:111
+msgid "Wheel"
+msgstr ""
+
+#: functions.php:117
+msgid "Willow"
+msgstr ""
+
+#: functions.php:170
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:186
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:192
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: functions.php:202
+msgid "Your comment is awaiting moderation."
+msgstr "El comentario está en la cola de moderación."
+
+#: functions.php:208
+msgid "Reply"
+msgstr "Respuesta"
+
+#: functions.php:231
+msgid "Categories: "
+msgstr "Categorías:"
+
+#: functions.php:243
+msgid "Tags: "
+msgstr "Etiquetas:"
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda de: %s"
+
+#: includes/theme-options.php:33 includes/theme-options.php:47
+msgid "Options"
+msgstr "Opciones"
+
+#: includes/theme-options.php:51
+msgid "Options saved"
+msgstr "Opciones guardadas"
+
+#: includes/theme-options.php:65
+msgid "Custom Link Color"
+msgstr "Color personalizado de los enlaces"
+
+#: includes/theme-options.php:69
+msgid "Select a Color"
+msgstr "Selecciona un color"
+
+#: includes/theme-options.php:72
+msgid "Default link color: #364D96"
+msgstr "Color predeterminado de los enlaces: #364D96h"
+
+#: includes/theme-options.php:76
+msgid "Custom favicon"
+msgstr "Favicon personalizado"
+
+#: includes/theme-options.php:80
+msgid "Upload your own favicon image"
+msgstr "Sube tu propio favicon"
+
+#: includes/theme-options.php:80
+msgid " using the WordPress Media Library and insert the URL here."
+msgstr " usando la Biblioteca Multimedia de y inserta el URL aquí."
+
+#: includes/theme-options.php:84
+msgid "Custom header height"
+msgstr "Altura de la cabecera personalizada"
+
+#: includes/theme-options.php:88
+msgid "Default header height: 288 px. After you changed this value you can"
+msgstr ""
+"Altura por defecto de la cabecera: 288 px. Después de haber cambiado este "
+"valor puedes"
+
+#: includes/theme-options.php:88
+msgid "upload a new header image"
+msgstr "sube una imagen nueva para la cabecera"
+
+#: includes/theme-options.php:94
+msgid "Save Options"
+msgstr "Guarda las opciones"

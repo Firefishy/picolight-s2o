@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: picolight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-15 00:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Valentin <admin@picomol.de>\n"
+"Language-Team:  <admin@picomol.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /home/valentin/public_html/wpthemes/wp-content/themes/picolight/\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Artikel ist Passwort-geschützt. Bitte Passwort eingeben."
+
+#: comments.php:39
+msgid "Comments closed"
+msgstr "Kommentare geschlossen"
+
+#: comments.php:48
+msgid "You must be"
+msgstr "Du musst"
+
+#: comments.php:48
+msgid "logged in"
+msgstr "eingeloggt sein"
+
+#: comments.php:48
+msgid "to leave a reply"
+msgstr "um eine Antwort hinterlassen zu können"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "Write a comment"
+msgstr "Kommentieren"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: index.php:15
+#: page.php:11
+#: single.php:15
+#: functions.php:170
+#: functions.php:197
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: index.php:26
+#: index.php:30
+#: single.php:17
+#: search.php:30
+#: search.php:34
+msgid "More &raquo;"
+msgstr "Weiterlesen &raquo;"
+
+#: index.php:46
+msgid "&laquo;  Older articles"
+msgstr "&laquo;  Ältere Beiträge"
+
+#: index.php:47
+msgid "Newer articles &raquo;"
+msgstr "Neuere Beiträge &raquo;"
+
+#: index.php:56
+#: search.php:57
+msgid "Sorry, nothing found."
+msgstr "Ups, die gesuchte Seite konnte nicht gefunden werden."
+
+#: index.php:58
+#: 404.php:7
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Die Seite, die Sie gesucht haben, wurde nicht gefunden. Möglicherweise hilft ja eine Suche weiter."
+
+#: page.php:15
+msgid "More..."
+msgstr "Weiterlesen ..."
+
+#: searchform.php:2
+#: searchform.php:5
+msgid "Search"
+msgstr "Suchen"
+
+#: footer.php:4
+msgid "All rights reserved"
+msgstr "Alle Rechte vorbehalten"
+
+#: footer.php:5
+msgid "Design by picomol"
+msgstr "Design by picomol"
+
+#: footer.php:5
+msgid "Powered by "
+msgstr "Powered by "
+
+#: 404.php:5
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ja ... das regt mich auch auf."
+
+#: header.php:19
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: single.php:27
+msgid "Sorry, no article found"
+msgstr "Sorry, kein Beitrag wurde gefunden"
+
+#: functions.php:32
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+#: functions.php:44
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:75
+msgid "Chessboard"
+msgstr "Schachbrett"
+
+#: functions.php:81
+msgid "Hanoi"
+msgstr "Hanoi"
+
+#: functions.php:87
+msgid "Lanterns"
+msgstr "Laternen"
+
+#: functions.php:93
+msgid "Pine-cone"
+msgstr "Tannenzapfen"
+
+#: functions.php:99
+msgid "Shore"
+msgstr "Küste"
+
+#: functions.php:105
+msgid "Trolley"
+msgstr "Straßenbahn"
+
+#: functions.php:111
+msgid "Wheel"
+msgstr "Rad"
+
+#: functions.php:117
+msgid "Willow"
+msgstr "Weide"
+
+#: functions.php:170
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:186
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:192
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: functions.php:202
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar muss noch freigeschaltet werden."
+
+#: functions.php:208
+msgid "Reply"
+msgstr "Antworten"
+
+#: functions.php:237
+msgid "Categories: "
+msgstr "Kategorien: "
+
+#: functions.php:249
+msgid "Tags: "
+msgstr "Tags: "
+
+#: search.php:7
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: includes/theme-options.php:23
+msgid "Use This Image"
+msgstr "Als Favicon verwenden"
+
+#: includes/theme-options.php:48
+#: includes/theme-options.php:62
+msgid "Options"
+msgstr "Optionen"
+
+#: includes/theme-options.php:66
+msgid "Options saved"
+msgstr "Einstellungen gespeichert"
+
+#: includes/theme-options.php:80
+msgid "Custom Link Color"
+msgstr "Eigene Linkfarbe"
+
+#: includes/theme-options.php:84
+msgid "Select a Color"
+msgstr "Eine Farbe wählen"
+
+#: includes/theme-options.php:87
+msgid "Default link color: #364D96"
+msgstr "Standardfarbe für Links: #364D96"
+
+#: includes/theme-options.php:91
+msgid "Custom favicon"
+msgstr "Eigenes Favicon"
+
+#: includes/theme-options.php:94
+msgid "Upload Image"
+msgstr "Ein Bild hochladen"
+
+#: includes/theme-options.php:99
+msgid "Custom header height"
+msgstr "Höhe des Header-Bildes"
+
+#: includes/theme-options.php:103
+msgid "Default header height: 288 px. After you changed this value you can"
+msgstr "Standardhöhe: 288px. Nachdem dieser Wert angepasst wurde,"
+
+#: includes/theme-options.php:103
+msgid "upload a new header image"
+msgstr "kann ein neues Header-Bild hochgeladen werden"
+
+#: includes/theme-options.php:109
+msgid "Save Options"
+msgstr "Änderungen übernehmen"
+
+#~ msgid "Upload your own favicon image"
+#~ msgstr "Laden Sie Ihr persönliches Favicon"
+#~ msgid " using the WordPress Media Library and insert the URL here."
+#~ msgstr ""
+#~ " mithilfe der WordPress Upload-Funktion hoch und fügen Sie hier die "
+#~ "Bildadresse ein."
+#~ msgid " Options"
+#~ msgstr " Optionen"
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
+#~ msgid "Theme Options"
+#~ msgstr "Theme Optionen"
+#~ msgid " Theme Options"
+#~ msgstr " Theme Optionen"
+#~ msgid "e.g. #0000FF or blue (default link color: #009BC2)"
+#~ msgstr "z. B. "
+#~ msgid "Written on"
+#~ msgstr "Geschrieben am"
+#~ msgid "Category"
+#~ msgstr "Kategorie"
+#~ msgid "No comments"
+#~ msgstr "Keine Kommentare"
+#~ msgid "Picoclean"
+#~ msgstr "Picoclean"
+#~ msgid "Logout"
+#~ msgstr "Abmelden"
+#~ msgid "Name (required)"
+#~ msgstr "Name (Pflichtfeld)"
+#~ msgid "E-Mail (required)"
+#~ msgstr "E-Mail (Pflichtfeld)"
+#~ msgid "Homepage"
+#~ msgstr "Homepage"
+#~ msgid "Send"
+#~ msgstr "Absenden"
+#~ msgid "More"
+#~ msgstr "Weiterlesen"
+#~ msgid "Bearbeiten"
+#~ msgstr "Bearbeiten"
+

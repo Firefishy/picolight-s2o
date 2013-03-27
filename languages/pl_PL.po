@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: picolight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-14 13:17+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcin Pietrzak <marcin@iworks.pl>\n"
+"Language-Team: iWorks <picolight@iworks.pl>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Wpis jest chroniony hasłem, które musisz wpisać, żeby wyświetlić zawartość."
+
+#: comments.php:39
+msgid "Comments closed"
+msgstr "Komentowanie zostało zamknięte"
+
+#: comments.php:48
+msgid "You must be"
+msgstr "Muszisz się"
+
+#: comments.php:48
+msgid "logged in"
+msgstr "zalogować"
+
+#: comments.php:48
+msgid "to leave a reply"
+msgstr "żeby zostawić komentarz"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "Write a comment"
+msgstr "Dodaj komentarz"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "1 comment"
+msgstr "jeden komentarz"
+
+#: index.php:10
+#: single.php:10
+#: search.php:15
+msgid "% comments"
+msgstr "% komentarzy"
+
+#: index.php:15
+#: page.php:11
+#: single.php:15
+#: functions.php:170
+#: functions.php:197
+msgid "(Edit)"
+msgstr "(Edytuj)"
+
+#: index.php:26
+#: index.php:30
+#: single.php:17
+#: search.php:30
+#: search.php:34
+msgid "More &raquo;"
+msgstr "Więcej &raquo;"
+
+#: index.php:46
+msgid "&laquo;  Older articles"
+msgstr "&laquo; Starsze wpisy"
+
+#: index.php:47
+msgid "Newer articles &raquo;"
+msgstr "Nowsze wpisy &raquo;"
+
+#: index.php:56
+#: search.php:57
+msgid "Sorry, nothing found."
+msgstr "Wybacz, niczego nie znaleziono."
+
+#: index.php:58
+#: 404.php:7
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help."
+msgstr "Nie tego czego szukano, może użyj innych odnośników ze strony."
+
+#: page.php:15
+msgid "More..."
+msgstr "Więcej..."
+
+#: searchform.php:2
+#: searchform.php:5
+msgid "Search"
+msgstr "Szukaj"
+
+#: footer.php:4
+msgid "All rights reserved"
+msgstr "Wszelkie prawa zastrzeżone"
+
+#: footer.php:5
+msgid "Design by picomol"
+msgstr "Stworzone przez picomol"
+
+#: footer.php:5
+msgid "Powered by "
+msgstr "Utrzymywane przez "
+
+#: 404.php:5
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Dość dziwne, nieprawdaż?"
+
+#: header.php:19
+msgid "Page %s"
+msgstr "Strona %s"
+
+#: single.php:27
+msgid "Sorry, no article found"
+msgstr "Nie znaleziono szukanego artykułu"
+
+#: functions.php:32
+msgid "Primary Navigation"
+msgstr "Główna nawigacja"
+
+#: functions.php:44
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:75
+msgid "Chessboard"
+msgstr "Szachownica"
+
+#: functions.php:81
+msgid "Hanoi"
+msgstr "Hanoi"
+
+#: functions.php:87
+msgid "Lanterns"
+msgstr "Lampiony"
+
+#: functions.php:93
+msgid "Pine-cone"
+msgstr "Szyszka"
+
+#: functions.php:99
+msgid "Shore"
+msgstr "Plaża"
+
+#: functions.php:105
+msgid "Trolley"
+msgstr "Tramwaj"
+
+#: functions.php:111
+msgid "Wheel"
+msgstr "Koło"
+
+#: functions.php:117
+msgid "Willow"
+msgstr "Wierzba"
+
+#: functions.php:170
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:186
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:192
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: functions.php:202
+msgid "Your comment is awaiting moderation."
+msgstr "Komentarz oczekuje akceptacji."
+
+#: functions.php:208
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: functions.php:231
+msgid "Categories: "
+msgstr "Kategorie:"
+
+#: functions.php:243
+msgid "Tags: "
+msgstr "Tagi:"
+
+#: search.php:7
+msgid "Search Results for: %s"
+msgstr "Wyniki wyszukiwania: %s"
+
+#: includes/theme-options.php:33
+#: includes/theme-options.php:47
+msgid "Options"
+msgstr "Ustawienia"
+
+#: includes/theme-options.php:51
+msgid "Options saved"
+msgstr "Ustawienia zostały zapisane"
+
+#: includes/theme-options.php:65
+msgid "Custom Link Color"
+msgstr "Kolor odnośników"
+
+#: includes/theme-options.php:69
+msgid "Select a Color"
+msgstr "Wybierz kolor"
+
+#: includes/theme-options.php:72
+msgid "Default link color: #364D96"
+msgstr "Domyślny kolor odnośników: #364D96"
+
+#: includes/theme-options.php:76
+msgid "Custom favicon"
+msgstr "Własna ikona"
+
+#: includes/theme-options.php:80
+msgid "Upload your own favicon image"
+msgstr "ddoaj własną ikonę"
+
+#: includes/theme-options.php:80
+msgid " using the WordPress Media Library and insert the URL here."
+msgstr "użyj odnośnika prowadzącego do pliku graficznego z mediów."
+
+#: includes/theme-options.php:84
+msgid "Custom header height"
+msgstr "Wysokość nagłówka"
+
+#: includes/theme-options.php:88
+msgid "Default header height: 288 px. After you changed this value you can"
+msgstr "Domyślna wysokość nagłówka to 288px. Należy ją zmienić po "
+
+#: includes/theme-options.php:88
+msgid "upload a new header image"
+msgstr "dodaniu obrazka nagłówka"
+
+#: includes/theme-options.php:94
+msgid "Save Options"
+msgstr "Zapisz"
+
