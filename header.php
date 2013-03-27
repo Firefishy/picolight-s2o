@@ -4,6 +4,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset=<?php bloginfo('charset'); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='<?php echo get_template_directory_uri();?>/js/jquery.cycle.lite.js'></script>
 	<title><?php
 		global $page, $paged;
 
@@ -32,12 +34,57 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body onload="$('#headerimage').cycle({fx: 'fade', speed: 1000, timeout: 7000});" <?php body_class(); ?>>
 <div id="wrapper">
 	<div id="header">
 		<h1><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></h1>
 		<p class="description"><?php bloginfo('description'); ?></p>
-		<img id="headerimage" src="<?php header_image(); ?>" alt="" />
+	         <div id="headerimage">
+                <div id="div-rich-data"><div class="info">
+                        <h2>Rich data</h2>
+                        <p>OpenStreetMap data is rich and detailed, containing huge amounts
+                        of data which is relevant to people on the ground - the people who
+                        collected it.</p>
+                        <p>Features include:</p>
+                        <ul>
+                                <li>Roads, railways, waterways, etc...</li>
+                                <li>Restaurants, shops, stations, ATMs and more.</li>
+                                <li>Walking and cycling paths.</li>
+                                <li>Buildings, campuses, etc...</li>
+                        </ul>
+                </div></div>
+                <div id="div-up-to-date"><div class="info">
+                        <h2>Up to date</h2>
+                        <p>OpenStreetMap is updated every minute of every hour of every day,
+                        and these updates are available to you in real-time.</p>
+                        <p>Our fantastic community is making OpenStreetMap better right now. If there are
+                        features you need - you can add them and see them live within minutes.</p>
+                </div></div>
+                <div id="div-tune-xp"><div class="info">
+                        <h2>Tune your experience</h2>
+                        <p>Why does your map have to look the same as every other one on the
+                        internet?</p>
+                        <p>With OpenStreetMap data you can create your own map, showing
+                        the features that <em>you</em> want to show, the features which are
+                        important to <em>your</em> users.</p>
+                </div></div>
+                <div id="div-global"><div class="info">
+                        <h2>Global data</h2>
+                        <p>OpenStreetMap data covers the whole world, making it easy to
+                        support users in any country, or every country.</p>
+                        <p>With localised and translated names, you can see maps in the
+                        language you want to see them in.</p>
+                </div></div>
+                <div id="div-no-license-fee"><div class="info">
+                        <h2>No licensing fee</h2>
+                        <p>OpenStreetMap data is free and open - there is no subscription
+                        fee and no page-view fee.</p>
+                        <p>With OpenStreetMap data, your only obligations are to attribute
+                        and share-alike, as explained in our license.</p>
+                </div></div>
+        </div>
+
+<!--		<img id="headerimage" src="<?php header_image(); ?>" alt="" /> -->
 		<div id="mainnav">
 				<?php wp_nav_menu(array('theme_location' => 'primary')); ?>
 		</div>
