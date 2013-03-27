@@ -34,7 +34,7 @@
 	<?php wp_head(); ?>
 </head>
 
-<body onload="$('#headerimage').cycle({fx: 'fade', speed: 1000, timeout: 7000});" <?php body_class(); ?>>
+<body onload="jQuery('#headerimage').cycle({fx: 'fade', speed: 1000, timeout: 7000});" <?php body_class(); ?>>
 <div id="wrapper">
 	<div id="header">
 		<h1><a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></h1>
