@@ -389,7 +389,7 @@ acronym, abbr {
 
 
 .widget { 
-	overflow:hidden;
+/*	overflow:hidden; */
 	clear:both;
 	margin-bottom: 25px;
 	font-size: 13px;
